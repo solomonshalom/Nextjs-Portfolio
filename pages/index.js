@@ -51,19 +51,6 @@ export default function Home() {
           </a>
         </div>
       </main>
-
-      <footer className={styles.footer}>
-        <a
-          href=""
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="" alt="" width={} height={} />
-          </span>
-        </a>
-      </footer>
     </div>
   )
 }
