@@ -18,7 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           God is Good,{' '}
-          <code className={}>Life is Good</code>
+          Life is Good>
         </p>
 
         <div className={styles.grid}>
