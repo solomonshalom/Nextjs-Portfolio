@@ -28,7 +28,7 @@ export default function Home() {
           </a>
 
           <a href="https://pastebin.com/DSEC3x2X" className={styles.card}>
-            <h2>My Social &rarr;</h2>
+            <h2>My Social Media &rarr;</h2>
             <p>All my socials on one place, also on a side note - follow and subscribe to me.</p>
           </a>
 
@@ -44,7 +44,7 @@ export default function Home() {
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>A something about me &rarr;</h2>
+            <h2>About Me &rarr;</h2>
             <p>
               I am Solomon - Middle School student and Web/ Game Developer.
             </p>
