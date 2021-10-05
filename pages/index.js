@@ -8,7 +8,6 @@ export default function Home() {
       <Head>
         <title>Solomon Shalom Lijo</title>
         <meta name="description" content="Solomon Shalom Lijo's Portfolio" />
-        <link rel="icon" href="https://media.discordapp.net/attachments/855310486421766154/894450280312225852/YWBY65tziiPYDC9e0Xnytl4czS4lJeK00VQWIkz0k9SFfhUGQ8W0Qlok8JUYDBWLc84XpLeprAaDfvPdWGUaXAwWxwyI3XJX4oB7.png" />
       </Head>
 
       <main className={styles.main}>
