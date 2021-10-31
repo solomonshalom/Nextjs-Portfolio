@@ -26,7 +26,7 @@ export default function Home() {
             <p>All my projects, from the beginning to the lastest. Find them all.</p>
           </a>
 
-          <a href="https://pastebin.com/DSEC3x2X" className={styles.card}>
+          <a href="https://portfolio-solomonshalom.vercel.app" className={styles.card}>
             <h2>My Social Media &rarr;</h2>
             <p>All my socials on one place, also on a side note - follow and subscribe to me.</p>
           </a>
@@ -40,7 +40,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://portfolio-solomonshalom.vercel.app"
             className={styles.card}
           >
             <h2>About Me &rarr;</h2>
